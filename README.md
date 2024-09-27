@@ -1,4 +1,6 @@
 # libft
+![image](https://github.com/user-attachments/assets/a5bdfa58-ba32-42e9-a57d-b79ec0ffb6e7)
+
 
 42 project aims to develop my personalized library of functions written in C.
 
